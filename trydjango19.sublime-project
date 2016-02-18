@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/gaseema/Desktop/djangoBlog-master"
 		}
 	]
 }
